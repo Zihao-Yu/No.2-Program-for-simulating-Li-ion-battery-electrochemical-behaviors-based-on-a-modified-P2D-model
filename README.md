@@ -1,0 +1,1 @@
+Effective and easy to use. The work was published on Journal of Power Sources with the name 'A simulation study of Li-ion batteries based on a modified P2D model' on Aug. 6th, 2024 and last updated on Nov. 16th, 2025. The introduction, latest version and change log of the work are included in the repository.
